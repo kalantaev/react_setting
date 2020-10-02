@@ -1,0 +1,154 @@
+.c-inline-block{
+    display: inline-block !important;
+}
+
+.c-label-small{
+    width: 150px;
+}
+.c-label-medium{
+    width: 300px;
+}
+.c-fool-width{
+    width: 100%;
+}
+.delete-btn{
+    color: blue;
+    cursor: pointer;
+}
+.delete-btn:hover{
+    color: #2fc9ff;
+}
+
+.padding-left-20{
+    padding-left: 20px;
+}
+.padding-left-170{
+    padding-left: 170px;
+}
+.margin-15{
+    margin-bottom: -.3rem;
+}
+
+.link{
+    cursor: pointer;
+    color: blue;
+}
+.link:hover{
+    cursor: pointer;
+    color: rgba(0, 0, 255, 0.61);
+}
+.modal-div{
+    position: fixed;
+    top: 10%;
+    left: 20%;
+    background-color: white;
+    width: 70%;
+    height: 80%;
+    z-index: 10;
+    padding: 40px;
+    overflow: scroll;
+}
+.modal-div-confirm{
+    position: fixed;
+    top: 20%;
+    left: 35%;
+    background-color: white;
+    width: 40%;
+    height: 20%;
+    z-index: 11;
+    padding: 40px;
+   border-radius: 10px;
+}
+.modal-div-back{
+    position: fixed;
+    top: 0%;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.65);
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+}
+
+.width-200{
+    width: 200px;
+}
+
+.width-500{
+    width: 500px;
+}
+
+.max-100{
+    max-width: 100px;
+}
+.max-70{
+    max-width: 70px;
+}
+.max-85{
+    max-width: 85px;
+}
+
+
+
+.bold {
+    border: 1px solid;
+}
+.MuiAccordionDetails-root{
+    display: block !important;
+}
+
+.non{
+    display: none;
+}
+
+.float-right{
+    float: right;
+    margin-top: -38px;
+}
+
+.float{
+    float: right;
+}
+.add-new{
+    cursor: pointer;
+    background-color: #09770e;
+    border-radius: 10px;
+    padding: 5px 10px 5px;
+    color: white;
+}
+
+.table-style {
+    border-color: #adb8c0;
+}
+.table thead {
+    background-color: #f3f3f3;
+}
+.table tbody tr {
+    cursor: pointer;
+}
+.table tbody tr:hover {
+    background-color: #f3fff3;
+}
+.btn-sml {
+    padding: 0.25rem 0.7rem;
+}
+
+.custom-field .form-control-lg,
+.custom-field .table .form-control-lg
+{
+    padding: 5px 10px;
+    font-size: 1rem;
+}
+
+.custom-field label{
+    line-height: 1rem;
+}
+.custom-field .form-group{
+    margin-bottom: 0.5rem;
+}
+
+.custom-input {
+    padding: 5px 10px;
+    line-height: 1;
+    font-size: 12px;
+    font-weight: normal;
+}
